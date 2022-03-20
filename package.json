@@ -2,6 +2,11 @@
   "name": "enactus-aitu-site",
   "version": "0.1.0",
   "private": true,
+  "author": "Enactus AITU Team",
+  "engines": {
+    "node": "v16.14.2",
+    "npm": "8.5.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
